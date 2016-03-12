@@ -11,6 +11,7 @@ public class Exercicio10 {
 		 * Peça para digita M-matutino ou V-vespertino ou N-noturno.
 		 * Imprima a mensagem "Bom Dia", "Boa Tarde" ou "Boa Noite" ou
 		 * "Valor Inválido!", conforme o caso.
+		 * teste no git
 		 */
 		
 		System.out.println("Em que turno você estuda?");
